@@ -1,0 +1,33 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mac OS specific file
+.DS_Store
+
+# Eclipse project files
+.project
+.settings/
+.classpath
+
+# IntelliJ project files
+.idea/
+*.iml
+out/
+
+# Maven / Gradle folders (if using them)
+target/
+build/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# JAR files
+*.jar
